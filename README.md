@@ -1,3 +1,6 @@
 # First_project
 
-this is my first static website for children's playhome
+It is a simple static website for children's playhome
+
+https://littleanglesplayhome.netlify.app/
+u can check it out^
