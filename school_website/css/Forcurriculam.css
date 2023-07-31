@@ -1,0 +1,116 @@
+
+.flexsize
+      {
+        width: 400px;
+        height: 400px;
+        border-radius: 10%;
+      
+      }
+      @media only screen and (max-width: 300px) {
+        .flexsize {
+          width: 100%; 
+          height: auto;
+        }
+      }
+
+      h2
+      {
+        text-align: center;
+        font-style: italic;
+        background-color: orange;
+      }
+
+
+      .flex-container
+       {
+        
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+        
+      }
+
+      .flex-container > div
+     {
+        
+        margin: 50px;
+        
+      }
+
+      @media only screen and (max-width: 300px) {
+        .flex-container,.flex-container > div {
+          width: 100%; 
+          height: auto;
+          
+        }
+      }
+
+
+    .header
+    {
+    
+    width: 800px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    } 
+    
+    @media only screen and (max-width:500px) {
+  
+      .header {
+        width: 100%;
+      }
+    }
+
+    .curr
+   {
+        font-style: italic;
+        
+        font-size: x-large;
+        line-height: 75px;
+        
+    }
+
+    p
+    {
+        font-style: italic;
+        font-size: xx-large;
+        color: orange;
+        padding-left: 50px;
+        font-weight: bold;
+    }
+
+    .pro
+    {
+        font-style: italic;
+        font-size: x-large;
+        line-height: 70px;
+        text-align: center;
+    }
+
+    b
+    {
+      color: white;
+    }
+
+    
+
+    body {
+      background-image: url("https://cdn.discordapp.com/attachments/1090196351968616469/1098202215568658502/Screenshot_2023-04-19_163315.png");
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;
+      
+      
+    }
+    @media (max-width: 480px) {
+      body {
+          background-image: url("https://cdn.discordapp.com/attachments/1090196351968616469/1098202215568658502/Screenshot_2023-04-19_163315.png");
+      }
+  }
+
+
+    
+

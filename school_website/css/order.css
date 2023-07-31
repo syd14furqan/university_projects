@@ -1,0 +1,262 @@
+
+.header
+{
+    
+    width: 800px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  
+}
+@media only screen and (max-width:500px) {
+  
+  .header {
+    width: 100%;
+  }
+}
+
+.topnav
+{
+  
+  background-color: orange;
+  overflow: hidden;
+}
+
+
+.topnav a 
+{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 120px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.topnav a.split 
+{
+  float: right;
+  
+}
+@media only screen and (max-width: 1000px) {
+  .topnav,.topnav a,.topnav a.split  {
+    width: 100%; 
+  }
+}
+
+
+* {box-sizing: border-box;}
+      body {font-family: Verdana, sans-serif;}
+      .mySlides {display: none;}
+      img {vertical-align: middle;}
+      
+      /* Slideshow container */
+      .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+      }
+      @media only screen and (max-width: 1000px) {
+        .slideshow-container  {
+          width: 100%; 
+        }
+      }
+      
+      
+    
+      
+     
+      
+      /* The dots/bullets/indicators */
+      .dot {
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: orange;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+      }
+      @media only screen and (max-width: 15px) {
+        .dot  {
+          width: 100%; 
+        }
+      }
+      
+      .active {
+        background-color: #717171;
+      }
+      
+      /* Fading animation */
+      .fade {
+        animation-name: fade;
+        animation-duration: 4s;
+      }
+      
+      @keyframes fade {
+        from {opacity: .4} 
+        to {opacity: 1}
+      }
+      
+      /* On smaller screens, decrease text size */
+      @media only screen and (max-width: 300px) {
+        .text {font-size: 11px}
+      }
+
+
+      .open_para
+      {
+        text-align: center;
+        font-size: x-large;
+        word-wrap: normal;
+        font-style: italic;
+        
+      }
+
+      .aims
+      {
+        font-style: italic;
+        
+        font-size: x-large;
+        line-height: 80px;
+        
+        
+      }
+
+      
+
+      h2
+      {
+        text-align: center;
+        font-style: italic;
+        background-color: orange;
+      }
+
+      .flex-container
+       {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+        
+        
+      }
+
+      .flex-container > div {
+        
+        
+       margin: 50px;
+        
+        
+      }
+      @media only screen and (max-width: 300px) {
+        .flex-container,.flex-container > div {
+          width: 100%; 
+          height: auto;
+          
+        }
+      }
+
+
+      .flexsize
+      {
+        width: 300px;
+        height: 300px;
+        border-radius: 10%;
+        
+      
+      }
+
+      .flexbelow
+      {
+        width: 600px;
+        height: 600px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 10%;
+        
+      }
+
+      @media only screen and (max-width: 300px) {
+        .flexsize {
+          width: 100%; 
+          height: auto;
+        }
+      }
+      @media only screen and (max-width: 600px) {
+        .flexbelow {
+          width: 100%; 
+          height: auto;
+        }
+      }
+
+      .para
+      {
+        
+        font-style: italic;
+        font-size: x-large;
+        text-align: center;
+        word-wrap: normal;
+      }
+      
+
+      .flex-container2 {
+        display: flex;
+        justify-content: space-between;
+        background-color: orange;
+        font-family: 'Times New Roman', Times, serif;
+      }
+      
+      .flex-container2 > div {
+        
+        
+        margin: 50px;
+        
+        line-height: 20px;
+        
+      }
+      
+      h3
+      {
+        text-align: center;
+      }
+
+      body {
+        background-image: url("https://cdn.discordapp.com/attachments/1090196351968616469/1098202215568658502/Screenshot_2023-04-19_163315.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+        
+        
+      }
+      @media (max-width: 480px) {
+        body {
+            background-image: url("https://cdn.discordapp.com/attachments/1090196351968616469/1098202215568658502/Screenshot_2023-04-19_163315.png");
+        }
+    }
+
+  
+
+    li
+    {
+      word-wrap: normal;
+      font-size: large;
+    
+    }
+
+    
+
+    
+      
+
+
+
+
