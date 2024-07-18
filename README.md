@@ -1,1 +1,1 @@
-
+A selection of the projects I worked on while pursuing my Bachelor of Engineering in Artificial Intelligence and Machine Learning (AIML) are displayed in this repository. These initiatives showcase both individual and group efforts and cover a range of AI and ML domains. 
