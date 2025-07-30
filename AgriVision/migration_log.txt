@@ -1,0 +1,281 @@
+2025-04-17 09:36:24,195 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-17 09:36:24,195 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-17 09:36:24,195 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-17 09:37:14,886 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-17 09:37:14,886 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-17 09:37:14,886 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-17 09:38:33,673 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-17 09:38:33,682 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-17 09:38:33,682 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-17 09:42:46,165 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-17 09:42:46,165 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-17 09:42:46,165 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-17 09:44:40,490 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-17 09:44:40,490 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-17 09:44:40,490 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-17 09:44:46,779 - INFO - Starting green area calculation at 2025-04-17 09:44:46.779058
+2025-04-17 09:44:46,779 - INFO - Found 1 images. Using Screenshot 2025-04-17 094437.png
+2025-04-17 09:44:46,806 - INFO - Image dimensions: 945x601, 3 channels
+2025-04-17 09:44:46,834 - INFO - Green area calculation: 74424 green pixels out of 567945 total pixels (13.10%)
+2025-04-17 09:44:46,904 - INFO - Processing completed successfully
+2025-04-17 09:51:00,018 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-17 09:51:00,018 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-17 09:51:00,018 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-17 09:51:05,533 - INFO - Starting green area calculation at 2025-04-17 09:51:05.533227
+2025-04-17 09:51:05,533 - INFO - Found 1 images. Using Screenshot 2025-04-17 095057.png
+2025-04-17 09:51:05,538 - INFO - Image dimensions: 636x542, 3 channels
+2025-04-17 09:51:05,538 - INFO - Green area calculation: 28009 green pixels out of 344712 total pixels (8.13%)
+2025-04-17 09:51:05,579 - INFO - Processing completed successfully
+2025-04-20 21:01:52,402 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-20 21:01:52,402 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-20 21:01:52,402 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-20 21:01:59,702 - INFO - Starting green area calculation at 2025-04-20 21:01:59.702722
+2025-04-20 21:01:59,702 - INFO - Found 1 images. Using Screenshot 2025-04-20 210149.png
+2025-04-20 21:01:59,735 - INFO - Image dimensions: 1083x725, 3 channels
+2025-04-20 21:01:59,752 - INFO - Green area calculation: 64643 green pixels out of 785175 total pixels (8.23%)
+2025-04-20 21:01:59,841 - INFO - Processing completed successfully
+2025-04-20 21:06:42,138 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-20 21:06:42,138 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-20 21:06:42,138 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-20 21:06:52,905 - INFO - Starting green area calculation at 2025-04-20 21:06:52.905075
+2025-04-20 21:06:52,905 - INFO - Found 1 images. Using Screenshot 2025-04-20 210638.png
+2025-04-20 21:06:52,924 - INFO - Image dimensions: 949x751, 3 channels
+2025-04-20 21:06:52,924 - INFO - Green area calculation: 54954 green pixels out of 712699 total pixels (7.71%)
+2025-04-20 21:06:53,000 - INFO - Processing completed successfully
+2025-04-20 21:10:12,878 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-20 21:10:12,879 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-20 21:10:12,879 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-20 21:10:19,652 - INFO - Starting green area calculation at 2025-04-20 21:10:19.652566
+2025-04-20 21:10:19,652 - INFO - Found 1 images. Using Screenshot 2025-04-20 210933.png
+2025-04-20 21:10:19,660 - INFO - Image dimensions: 1082x617, 3 channels
+2025-04-20 21:10:19,660 - INFO - Green area calculation: 1863 green pixels out of 667594 total pixels (0.28%)
+2025-04-20 21:10:19,727 - INFO - Processing completed successfully
+2025-04-20 21:10:54,584 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-20 21:10:54,584 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-20 21:10:54,584 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-20 21:11:00,856 - INFO - Starting green area calculation at 2025-04-20 21:11:00.856931
+2025-04-20 21:11:00,861 - INFO - Found 1 images. Using Screenshot 2025-04-20 211009.png
+2025-04-20 21:11:00,862 - INFO - Image dimensions: 906x704, 3 channels
+2025-04-20 21:11:00,879 - INFO - Green area calculation: 48592 green pixels out of 637824 total pixels (7.62%)
+2025-04-20 21:11:00,946 - INFO - Processing completed successfully
+2025-04-20 21:26:07,484 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-20 21:26:07,484 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-20 21:26:07,484 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-20 21:26:11,503 - INFO - Starting green area calculation at 2025-04-20 21:26:11.503148
+2025-04-20 21:26:11,503 - INFO - Found 1 images. Using Screenshot 2025-04-20 211009.png
+2025-04-20 21:26:11,517 - INFO - Image dimensions: 906x704, 3 channels
+2025-04-20 21:26:11,525 - INFO - Green area calculation: 48592 green pixels out of 637824 total pixels (7.62%)
+2025-04-20 21:26:11,584 - INFO - Processing completed successfully
+2025-04-20 21:26:26,988 - INFO - Starting green area calculation at 2025-04-20 21:26:26.988219
+2025-04-20 21:26:26,988 - INFO - Found 1 images. Using Screenshot 2025-04-20 211009.png
+2025-04-20 21:26:26,998 - INFO - Image dimensions: 906x704, 3 channels
+2025-04-20 21:26:26,998 - INFO - Green area calculation: 48592 green pixels out of 637824 total pixels (7.62%)
+2025-04-20 21:26:27,065 - INFO - Processing completed successfully
+2025-04-20 21:26:48,580 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-20 21:26:48,580 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-20 21:26:48,580 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-20 21:26:50,503 - INFO - Starting green area calculation at 2025-04-20 21:26:50.503449
+2025-04-20 21:26:50,503 - INFO - Found 1 images. Using Screenshot 2025-04-20 211009.png
+2025-04-20 21:26:50,511 - INFO - Image dimensions: 906x704, 3 channels
+2025-04-20 21:26:50,511 - INFO - Green area calculation: 48592 green pixels out of 637824 total pixels (7.62%)
+2025-04-20 21:26:50,595 - INFO - Processing completed successfully
+2025-04-20 21:54:58,502 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-04-20 21:54:58,503 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-04-20 21:54:58,503 - INFO - Migration complete. Copied 0 screenshots.
+2025-04-20 21:55:05,497 - INFO - Starting green area calculation at 2025-04-20 21:55:05.497840
+2025-04-20 21:55:05,497 - INFO - Found 1 images. Using Screenshot 2025-04-20 215449.png
+2025-04-20 21:55:05,531 - INFO - Image dimensions: 1077x691, 3 channels
+2025-04-20 21:55:05,548 - INFO - Green area calculation: 149416 green pixels out of 744207 total pixels
+2025-04-20 21:55:05,548 - INFO - Raw percentage: 20.08%
+2025-04-20 21:55:05,548 - INFO - Zoom adjusted percentage: 36.14%
+2025-04-20 21:55:05,647 - INFO - Processing completed successfully
+2025-04-20 21:55:24,762 - INFO - Starting green area calculation at 2025-04-20 21:55:24.762584
+2025-04-20 21:55:24,762 - INFO - Found 1 images. Using Screenshot 2025-04-20 215449.png
+2025-04-20 21:55:24,782 - INFO - Image dimensions: 1077x691, 3 channels
+2025-04-20 21:55:24,785 - INFO - Green area calculation: 149416 green pixels out of 744207 total pixels
+2025-04-20 21:55:24,785 - INFO - Raw percentage: 20.08%
+2025-04-20 21:55:24,785 - INFO - Zoom adjusted percentage: 36.14%
+2025-04-20 21:55:24,862 - INFO - Processing completed successfully
+2025-05-01 12:18:42,074 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-01 12:18:42,079 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-01 12:18:42,079 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-01 12:18:44,517 - INFO - Starting green area calculation at 2025-05-01 12:18:44.517651
+2025-05-01 12:18:44,517 - INFO - Found 1 images. Using Screenshot 2025-04-20 215449.png
+2025-05-01 12:18:44,545 - INFO - Image dimensions: 1077x691, 3 channels
+2025-05-01 12:18:44,573 - INFO - Green area calculation: 149416 green pixels out of 744207 total pixels
+2025-05-01 12:18:44,573 - INFO - Raw percentage: 20.08%
+2025-05-01 12:18:44,573 - INFO - Zoom adjusted percentage: 36.14%
+2025-05-01 12:18:44,663 - INFO - Processing completed successfully
+2025-05-01 12:22:03,836 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-01 12:22:03,836 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-01 12:22:03,836 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-01 12:22:10,360 - INFO - Starting green area calculation at 2025-05-01 12:22:10.360998
+2025-05-01 12:22:10,365 - INFO - Found 1 images. Using Screenshot 2025-05-01 122201.png
+2025-05-01 12:22:10,373 - INFO - Image dimensions: 899x504, 3 channels
+2025-05-01 12:22:10,380 - INFO - Green area calculation: 86600 green pixels out of 453096 total pixels
+2025-05-01 12:22:10,380 - INFO - Raw percentage: 19.11%
+2025-05-01 12:22:10,380 - INFO - Zoom adjusted percentage: 34.40%
+2025-05-01 12:22:10,428 - INFO - Processing completed successfully
+2025-05-01 12:29:36,577 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-01 12:29:36,577 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-01 12:29:36,577 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-01 12:29:42,724 - INFO - Starting green area calculation at 2025-05-01 12:29:42.724849
+2025-05-01 12:29:42,724 - INFO - Found 1 images. Using Screenshot 2025-05-01 122934.png
+2025-05-01 12:29:42,736 - INFO - Image dimensions: 965x670, 3 channels
+2025-05-01 12:29:42,743 - INFO - Green area calculation: 129111 green pixels out of 646550 total pixels
+2025-05-01 12:29:42,743 - INFO - Raw percentage: 19.97%
+2025-05-01 12:29:42,743 - INFO - Zoom adjusted percentage: 35.94%
+2025-05-01 12:29:42,819 - INFO - Processing completed successfully
+2025-05-01 12:35:45,072 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-01 12:35:45,072 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-01 12:35:45,072 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-01 12:35:53,141 - INFO - Starting green area calculation at 2025-05-01 12:35:53.141307
+2025-05-01 12:35:53,141 - INFO - Found 1 images. Using Screenshot 2025-05-01 123542.png
+2025-05-01 12:35:53,155 - INFO - Image dimensions: 835x633, 3 channels
+2025-05-01 12:35:53,162 - INFO - Green area calculation: 100534 green pixels out of 528555 total pixels
+2025-05-01 12:35:53,162 - INFO - Raw percentage: 19.02%
+2025-05-01 12:35:53,162 - INFO - Zoom adjusted percentage: 34.24%
+2025-05-01 12:35:53,218 - INFO - Processing completed successfully
+2025-05-01 12:46:33,313 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-01 12:46:33,313 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-01 12:46:33,313 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-01 12:46:39,233 - INFO - Starting green area calculation at 2025-05-01 12:46:39.233079
+2025-05-01 12:46:39,233 - INFO - Found 1 images. Using Screenshot 2025-05-01 124631.png
+2025-05-01 12:46:39,246 - INFO - Image dimensions: 996x628, 3 channels
+2025-05-01 12:46:39,253 - INFO - Green area calculation: 117048 green pixels out of 625488 total pixels
+2025-05-01 12:46:39,253 - INFO - Raw percentage: 18.71%
+2025-05-01 12:46:39,253 - INFO - Zoom adjusted percentage: 33.68%
+2025-05-01 12:46:39,323 - INFO - Processing completed successfully
+2025-05-01 12:52:47,840 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-01 12:52:47,840 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-01 12:52:47,840 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-01 12:52:52,849 - INFO - Starting green area calculation at 2025-05-01 12:52:52.849478
+2025-05-01 12:52:52,849 - INFO - Found 1 images. Using Screenshot 2025-05-01 125244.png
+2025-05-01 12:52:52,867 - INFO - Image dimensions: 876x713, 3 channels
+2025-05-01 12:52:52,874 - INFO - Green area calculation: 96308 green pixels out of 624588 total pixels
+2025-05-01 12:52:52,884 - INFO - Raw percentage: 15.42%
+2025-05-01 12:52:52,884 - INFO - Zoom adjusted percentage: 27.76%
+2025-05-01 12:52:52,944 - INFO - Processing completed successfully
+2025-05-05 18:23:01,259 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-05 18:23:01,259 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-05 18:23:01,260 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-05 18:23:15,052 - INFO - Starting green area calculation at 2025-05-05 18:23:15.051197
+2025-05-05 18:23:15,052 - INFO - Found 1 images. Using Screenshot 2025-05-05 182256.png
+2025-05-05 18:23:15,075 - INFO - Image dimensions: 866x624, 3 channels
+2025-05-05 18:23:15,102 - INFO - Green area calculation: 101077 green pixels out of 540384 total pixels
+2025-05-05 18:23:15,102 - INFO - Raw percentage: 18.70%
+2025-05-05 18:23:15,102 - INFO - Zoom adjusted percentage: 33.67%
+2025-05-05 18:23:15,169 - INFO - Processing completed successfully
+2025-05-07 23:39:38,954 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-07 23:39:38,954 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-07 23:39:38,954 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-07 23:39:44,648 - INFO - Starting green area calculation at 2025-05-07 23:39:44.648537
+2025-05-07 23:39:44,648 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-07 23:39:44,669 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-07 23:39:44,697 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-07 23:39:44,697 - INFO - Raw percentage: 19.17%
+2025-05-07 23:39:44,697 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-07 23:39:44,774 - INFO - Processing completed successfully
+2025-05-07 23:47:41,275 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-07 23:47:41,275 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-07 23:47:41,275 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-07 23:47:43,745 - INFO - Starting green area calculation at 2025-05-07 23:47:43.745827
+2025-05-07 23:47:43,745 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-07 23:47:43,759 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-07 23:47:43,766 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-07 23:47:43,772 - INFO - Raw percentage: 19.17%
+2025-05-07 23:47:43,772 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-07 23:47:43,842 - INFO - Processing completed successfully
+2025-05-08 00:05:47,432 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-08 00:05:47,432 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-08 00:05:47,432 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-08 00:05:50,662 - INFO - Starting green area calculation at 2025-05-08 00:05:50.662458
+2025-05-08 00:05:50,662 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-08 00:05:50,675 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-08 00:05:50,682 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-08 00:05:50,682 - INFO - Raw percentage: 19.17%
+2025-05-08 00:05:50,682 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-08 00:05:50,752 - INFO - Processing completed successfully
+2025-05-08 00:25:54,084 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-08 00:25:54,084 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-08 00:25:54,084 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-08 00:25:55,457 - INFO - Starting green area calculation at 2025-05-08 00:25:55.457468
+2025-05-08 00:25:55,457 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-08 00:25:55,471 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-08 00:25:55,478 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-08 00:25:55,478 - INFO - Raw percentage: 19.17%
+2025-05-08 00:25:55,478 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-08 00:25:55,547 - INFO - Processing completed successfully
+2025-05-08 00:33:52,209 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-08 00:33:52,210 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-08 00:33:52,210 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-08 00:33:53,472 - INFO - Starting green area calculation at 2025-05-08 00:33:53.472572
+2025-05-08 00:33:53,475 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-08 00:33:53,489 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-08 00:33:53,497 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-08 00:33:53,497 - INFO - Raw percentage: 19.17%
+2025-05-08 00:33:53,497 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-08 00:33:53,566 - INFO - Processing completed successfully
+2025-05-08 00:37:10,536 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-08 00:37:10,536 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-08 00:37:10,536 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-08 00:37:11,105 - INFO - Starting green area calculation at 2025-05-08 00:37:11.105022
+2025-05-08 00:37:11,105 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-08 00:37:11,118 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-08 00:37:11,126 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-08 00:37:11,126 - INFO - Raw percentage: 19.17%
+2025-05-08 00:37:11,126 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-08 00:37:11,195 - INFO - Processing completed successfully
+2025-05-08 00:43:07,196 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-08 00:43:07,196 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-08 00:43:07,196 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-08 00:43:08,056 - INFO - Starting green area calculation at 2025-05-08 00:43:08.056919
+2025-05-08 00:43:08,056 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-08 00:43:08,070 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-08 00:43:08,078 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-08 00:43:08,078 - INFO - Raw percentage: 19.17%
+2025-05-08 00:43:08,078 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-08 00:43:08,147 - INFO - Processing completed successfully
+2025-05-08 00:45:11,083 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-08 00:45:11,083 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-08 00:45:11,083 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-08 00:45:11,686 - INFO - Starting green area calculation at 2025-05-08 00:45:11.686579
+2025-05-08 00:45:11,686 - INFO - Found 1 images. Using Screenshot 2025-05-07 233936.png
+2025-05-08 00:45:11,701 - INFO - Image dimensions: 949x673, 3 channels
+2025-05-08 00:45:11,708 - INFO - Green area calculation: 122433 green pixels out of 638677 total pixels
+2025-05-08 00:45:11,708 - INFO - Raw percentage: 19.17%
+2025-05-08 00:45:11,708 - INFO - Zoom adjusted percentage: 34.51%
+2025-05-08 00:45:11,778 - INFO - Processing completed successfully
+2025-05-11 15:42:30,333 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-11 15:42:30,333 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-11 15:42:30,333 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-11 15:42:42,216 - INFO - Starting green area calculation at 2025-05-11 15:42:42.215571
+2025-05-11 15:42:42,216 - INFO - Found 1 images. Using Screenshot 2025-05-11 154228.png
+2025-05-11 15:42:42,241 - INFO - Image dimensions: 947x673, 3 channels
+2025-05-11 15:42:42,267 - INFO - Green area calculation: 128127 green pixels out of 637331 total pixels
+2025-05-11 15:42:42,267 - INFO - Raw percentage: 20.10%
+2025-05-11 15:42:42,267 - INFO - Zoom adjusted percentage: 36.19%
+2025-05-11 15:42:42,347 - INFO - Processing completed successfully
+2025-05-23 20:39:49,418 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-23 20:39:49,418 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-23 20:39:49,418 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-23 20:40:26,275 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-23 20:40:26,275 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-23 20:40:26,275 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-23 20:40:34,049 - INFO - Starting green area calculation at 2025-05-23 20:40:34.049120
+2025-05-23 20:40:34,049 - INFO - Found 1 images. Using Screenshot 2025-05-23 204024.png
+2025-05-23 20:40:34,077 - INFO - Image dimensions: 940x681, 3 channels
+2025-05-23 20:40:34,098 - INFO - Green area calculation: 129380 green pixels out of 640140 total pixels
+2025-05-23 20:40:34,098 - INFO - Raw percentage: 20.21%
+2025-05-23 20:40:34,098 - INFO - Zoom adjusted percentage: 36.38%
+2025-05-23 20:40:34,168 - INFO - Processing completed successfully
+2025-05-24 11:28:53,731 - WARNING - Directory does not exist: C:\Users\sydfu\Desktop
+2025-05-24 11:28:53,732 - WARNING - Directory does not exist: C:\Users\sydfu\Pictures\Screenshots
+2025-05-24 11:28:53,732 - INFO - Migration complete. Copied 0 screenshots.
+2025-05-24 11:29:06,858 - INFO - Starting green area calculation at 2025-05-24 11:29:06.858714
+2025-05-24 11:29:06,858 - INFO - Found 1 images. Using Screenshot 2025-05-23 204024.png
+2025-05-24 11:29:06,907 - INFO - Image dimensions: 940x681, 3 channels
+2025-05-24 11:29:06,949 - INFO - Green area calculation: 129380 green pixels out of 640140 total pixels
+2025-05-24 11:29:06,949 - INFO - Raw percentage: 20.21%
+2025-05-24 11:29:06,949 - INFO - Zoom adjusted percentage: 36.38%
+2025-05-24 11:29:07,056 - INFO - Processing completed successfully

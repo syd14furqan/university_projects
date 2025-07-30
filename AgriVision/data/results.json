@@ -1,0 +1,12 @@
+[
+  {
+    "filename": "Screenshot 2025-04-17 023101.png",
+    "area_acres": 17.12,
+    "green_pixels": 41005,
+    "output_files": [
+      "data\\Screenshot 2025-04-17 023101_original.png",
+      "data\\Screenshot 2025-04-17 023101_mask.png",
+      "data\\Screenshot 2025-04-17 023101_result.png"
+    ]
+  }
+]

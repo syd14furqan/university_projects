@@ -1,0 +1,8 @@
+Image: working images\Screenshot 2025-05-23 204024.png
+Total Pixels: 640140
+Green Pixels: 129380
+Raw Green Area Percentage: 20.21%
+Zoom-Adjusted Green Area Percentage: 36.38%
+Zoom Correction Factor: 1.8
+Analysis Date: 2025-05-24 11:29:07.056362
+Location: BMS College of Engineering, Bangalore

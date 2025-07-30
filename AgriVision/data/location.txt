@@ -1,0 +1,5 @@
+Location Information:
+Name: Bangalore
+Region: Karnataka
+Country: India
+Coordinates: 12.9833, 77.5833
